@@ -1,0 +1,5 @@
+.idea/
+venv/
+Images/Medical mask/annotations
+Images/Medical mask/images
+Caffe_face_detection
